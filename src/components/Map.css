@@ -1,0 +1,39 @@
+.map-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .map-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .map-controls input {
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .map-controls button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: green ;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .map-controls button:hover {
+    background-color: #00b30f;
+  }
+  
+  .google-map {
+    flex: 1;
+  }
+  
