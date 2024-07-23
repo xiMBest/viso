@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/viso/static/css/main.3c4e5b13.css",
+    "main.js": "/viso/static/js/main.130cfea6.js",
+    "static/js/453.147e8680.chunk.js": "/viso/static/js/453.147e8680.chunk.js",
+    "index.html": "/viso/index.html",
+    "main.3c4e5b13.css.map": "/viso/static/css/main.3c4e5b13.css.map",
+    "main.130cfea6.js.map": "/viso/static/js/main.130cfea6.js.map",
+    "453.147e8680.chunk.js.map": "/viso/static/js/453.147e8680.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c4e5b13.css",
+    "static/js/main.130cfea6.js"
+  ]
+}
